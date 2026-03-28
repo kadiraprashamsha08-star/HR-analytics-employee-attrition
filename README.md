@@ -56,8 +56,10 @@ This project focuses on analyzing employee attrition using HR analytics techniqu
 
 ## 📂 Project Files
 
-* `Employee_Attrition_Dashboard.pbix` → Power BI dashboard file
-* `dataset.xlsx` → Dataset used for analysis
+## 📂 Project Files
+- `EMPLOYEE ATTRITION.pbix` → Power BI dashboard file
+- `HR_EMPLOYEE_ATTRITION_DATA.xlsx` → Dataset used for analysis
+- `dashboard.png` → Dashboard preview image
 
 ---
 
